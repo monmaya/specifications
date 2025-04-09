@@ -2,6 +2,10 @@ Data-related referential management service - Specifications
 ============================================================
 
 # Table of Content (ToC)
+* [Overview](#overview)
+* [References](#references)
+  * [Data products](#data-products)
+  * [Data contracts](#data-contracts)
 
 # Overview
 [This project](https://github.com/monmaya/specifications) aims at specifying,
@@ -21,7 +25,7 @@ they speak on their personal behalf and do not represent these companies.
 * Innoq's specification for Data Products: https://dataproduct-specification.com/
 * Open Data Mesh (ODM)'s Data Product Descriptor Specification (DPDS): https://github.com/opendatamesh-initiative/odm-specification-dpdescriptor
 
-# Data contracts
+## Data contracts
 * Open Data Contract Specification (ODCS)
   * Reader-friendly, dedicated site: https://bitol-io.github.io/open-data-contract-standard/latest/
   * GitHub home page: https://github.com/bitol-io/open-data-contract-standard
