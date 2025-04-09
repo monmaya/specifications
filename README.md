@@ -14,6 +14,8 @@ objects, like for instance data products, data contracts, data quality specifica
 data quality reports, data metrics, Service Level Objectives (SLO) and, more generally,
 any type or concept appearing at a high level in data contracts.
 
+Reference implementation: https://github.com/monmaya/base-impl
+
 Even though the members of the GitHub organization may be employed by some companies,
 they speak on their personal behalf and do not represent these companies.
 
