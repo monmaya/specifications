@@ -39,8 +39,8 @@ they speak on their personal behalf and do not represent these companies.
 
  
  # Test the API
- You can test the API using Docker-compose from the base-impl project.
- Checkout this project then:
+ You can test the API using Docker Compose from the base-impl project.
+ <br/>Checkout this project then:
  - create a virtual environnement
  - install the libraires (base-impl/requirements.txt file)
  - run the "docker compose up" command
