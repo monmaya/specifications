@@ -6,7 +6,7 @@ Data-related referential management service - Specifications
 * [References](#references)
   * [Data products](#data-products)
   * [Data contracts](#data-contracts)
-* [Test the API](#localhost)
+* [Test the API](#test_the_api)
 
 # Overview
 [This project](https://github.com/monmaya/specifications) aims at specifying,
@@ -37,7 +37,7 @@ they speak on their personal behalf and do not represent these companies.
   * [Andrew Jones' Git repository supporting his book about data contracts - Chapter 08: samples of contracts for customer profiles](https://github.com/PacktPublishing/Driving-Data-Quality-with-Data-Contracts/tree/main/Chapter08/contracts)
   * [Andrew Jones' Git repository supporting his book about data contracts - Chapter 03: samples of contracts for order events](https://github.com/PacktPublishing/Driving-Data-Quality-with-Data-Contracts/blob/main/Chapter03/order_events.yaml)
  
- # [Test the API]
+ # Test the API
  
 
 ## Other repositories of Data Engineering helpers
