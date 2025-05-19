@@ -44,6 +44,8 @@ they speak on their personal behalf and do not represent these companies.
  - create a virtual environnement
  - install the libraires (base-impl/requirements.txt file)
  - run the "docker compose up" command
+ - The project Swagger is available at the URL http://localhost:8020/docs
+
 
 ## Other repositories of Data Engineering helpers
 * [Data Engineering Helpers - Knowledge Sharing - Data products](https://github.com/data-engineering-helpers/data-products)
