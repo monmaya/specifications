@@ -6,7 +6,7 @@ Data-related referential management service - Specifications
 * [References](#references)
   * [Data products](#data-products)
   * [Data contracts](#data-contracts)
-* [Test the API (swagger)] (#swagger)
+* [Test the API](#localhost)
 
 # Overview
 [This project](https://github.com/monmaya/specifications) aims at specifying,
